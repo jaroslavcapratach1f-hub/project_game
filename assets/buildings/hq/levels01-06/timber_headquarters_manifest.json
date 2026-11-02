@@ -1,0 +1,54 @@
+{
+  "file": "timber_headquarters.glb",
+  "triangles": 152894,
+  "pivot": "ground center",
+  "units": "authored coordinates fitted to the existing 7x8 plot",
+  "status": "finishing corrections visually verified in current world",
+  "mainFloors": 2,
+  "annexes": 0,
+  "flags": false,
+  "star": false,
+  "signPanel": "front gable above second-floor windows",
+  "attachedExtensions": 2,
+  "wingFrontWindows": 1,
+  "balconyAccessDoors": 2,
+  "checkpointPosts": 2,
+  "guards": 4,
+  "fixedMachineGuns": 4,
+  "guardIdentity": "shared unmarked textured field guard, derived from existing infantry",
+  "layout": "rear-edge command house; open guarded forecourt; no detached buildings",
+  "entrance": "local +Z; runtime rotates to grid +X",
+  "materials": "packed wood/fabric PBR maps and static AO/daylight contact shading",
+  "refinement": "source/refinement/refine.mjs; Node/Three only",
+  "soldierHeightMetres": 1.78,
+  "scaleMatchedToFieldInfantry": true,
+  "authoredScale": 0.7067509045749263,
+  "courtyard": "dispatch shelter, supply pallet, distributed stores, low bag edging and worn ground",
+  "roofAerial": "single taut span between final mast anchors",
+  "verificationDate": "2026-10-02",
+  "sha256": "050bf3ba636c31f154d70f70be11f6ed7b0ca5176389fe01d195dee1f3f4ddbc",
+  "verification": {
+    "testsPassed": "HQ asset test passed; preceding full suite 29 passed",
+    "productionBuild": "pass; existing bundle-size advisory",
+    "lint": "0 errors, 99 warnings in current src tree",
+    "viewports": [
+      [
+        390,
+        844
+      ],
+      [
+        844,
+        390
+      ]
+    ],
+    "selection": true,
+    "ghostRestore": true,
+    "lodHideRestore": true,
+    "physicalDeviceTested": false
+  },
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "sharedMeshAcrossLevels": true
+}

@@ -1,0 +1,38 @@
+{
+  "unit": "maus",
+  "faction": "germany",
+  "class": "superHeavyTank",
+  "minimumStarRating": 5,
+  "visualTier": 1,
+  "style": "Basic WWII German super-heavy; grey; no advanced upgrade equipment",
+  "runtimeFiles": [
+    "maus_hull.glb",
+    "maus_turret.glb"
+  ],
+  "preview": "maus_preview.png",
+  "turntable": "maus_turntable.webm",
+  "source": "source/original.glb",
+  "concept": "source/concept.png",
+  "rebuild": "source/prepare_maus.py",
+  "turretPivotLocal": {
+    "x": -0.0006095158733701311,
+    "y": 0.035,
+    "z": -0.21581772283344933
+  },
+  "rotationYDeg": 90,
+  "fitAxis": "z",
+  "hullLengthWorldPx": 160,
+  "sourceTriangles": 13212,
+  "predictionId": "m0e12am3bdrna0d10tqrxggk1r",
+  "verification": {
+    "independentTurret": true,
+    "headingSync": true,
+    "germanyOnly": true,
+    "largerThanHeavy": true,
+    "physicalDeviceTested": false
+  },
+  "sha256": {
+    "maus_hull.glb": "39250236e78e8771498e8eae6c3b954afca6c2c2cfb15987f96cb1fbbbc5b635",
+    "maus_turret.glb": "ef2a0db4b84a504482e82f5a72c39479ba381f08231c6f98afc708830b1f83cc"
+  }
+}

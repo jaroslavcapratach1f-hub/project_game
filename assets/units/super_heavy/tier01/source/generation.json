@@ -1,0 +1,24 @@
+{
+  "id": "m0e12am3bdrna0d10tqrxggk1r",
+  "version": "e8f6c45206993f297372f5436b90350817bd9b4a0d52d2a76df50c1c8afa2b3c",
+  "input": {
+    "generate_color": true,
+    "generate_model": true,
+    "generate_normal": false,
+    "images": [
+      "concept.png"
+    ],
+    "mesh_simplify": 0.95,
+    "randomize_seed": false,
+    "seed": 1944,
+    "slat_sampling_steps": 32,
+    "ss_sampling_steps": 32,
+    "texture_size": 2048
+  },
+  "created_at": "2026-10-04T11:32:08.155Z",
+  "completed_at": "2026-10-04T11:33:15.866803548Z",
+  "metrics": {
+    "predict_time": 54.504804012,
+    "total_time": 67.711803548
+  }
+}

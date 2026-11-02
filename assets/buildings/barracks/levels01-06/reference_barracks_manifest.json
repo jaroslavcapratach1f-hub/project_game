@@ -1,0 +1,37 @@
+{
+  "footprint": [
+    4,
+    4
+  ],
+  "bays": 4,
+  "triangles": 24250,
+  "source": "source/build.mjs",
+  "status": "Current WorldScene counts verified; every available class fits without model-bound overlap",
+  "tower": false,
+  "orientation": "0 degrees; yard screen-left, hut screen-right",
+  "yardCounts": {
+    "infantry": 16,
+    "lightTank": 4,
+    "mediumTank": 4,
+    "heavyTank": 2,
+    "tankHunter": 4,
+    "howitzer": 4,
+    "superHeavyTank": 1
+  },
+  "temporaryArt": {},
+  "missingArt": [
+    "atGun",
+    "launcher"
+  ],
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "sharedMeshAcrossLevels": true,
+  "superHeavyArt": "germany:superHeavyTank (grey Maus, starting 5-star)",
+  "infantrySpacingCells": {
+    "columns": 0.76,
+    "rows": 0.56
+  },
+  "displayScaleReferenceCellPx": 42
+}

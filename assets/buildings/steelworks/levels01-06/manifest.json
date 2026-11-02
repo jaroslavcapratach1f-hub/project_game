@@ -1,0 +1,28 @@
+{
+  "building": "steelworks",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    2,
+    2
+  ],
+  "front": "+X",
+  "file": "steelworks.glb",
+  "bytes": 5271736,
+  "triangles": 61352,
+  "sha256": "034d27985c9edf05fffe4b71486b0e1333abfa2939c199ee317aa0f894ffd89f",
+  "authoring": "Blender",
+  "source": "source/steelworks.blend",
+  "preview": "steelworks_preview.png",
+  "turntable": "steelworks_turntable.webm",
+  "openForgeBay": true,
+  "rotationYDeg": 0,
+  "screenFacing": "lower-right",
+  "previewRole": "approved concept reference",
+  "turntableRole": "current runtime model",
+  "visibleSmelting": true,
+  "terrainSlab": false,
+  "previewNote": "Approved original concept; paving superseded by user instruction"
+}

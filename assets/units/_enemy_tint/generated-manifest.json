@@ -1,0 +1,68 @@
+[
+  {
+    "source": "m12_gmc/tier01/howitzer.glb",
+    "enemy": "m12_gmc/tier01/howitzer_enemy.glb",
+    "sourceSha256": "4ba2917d0781b05500659a8c7f73c2067ef25b5e64405b5687a748d549e7f2cf",
+    "enemySha256": "a0e135292e12af2322d69ea267c4a8fc9d1f1a4182c0cacbed8f5bd7b8478746"
+  },
+  {
+    "source": "m18_hellcat/tier01/m18_hellcat.glb",
+    "enemy": "m18_hellcat/tier01/m18_hellcat_enemy.glb",
+    "sourceSha256": "e77b8de880d78f0acd82d04107fd5e40178a32e77619cc3bd499f75c4f4aeaa2",
+    "enemySha256": "b680f8da2635b6460ccd161e96901bf160a1cba994049d3016dbcc911798fdfc"
+  },
+  {
+    "source": "m24_chaffee/tier01/m24_chaffee_hull.glb",
+    "enemy": "m24_chaffee/tier01/m24_chaffee_hull_enemy.glb",
+    "sourceSha256": "abe190680b669fcdb11080724609b02a8643a3ea59586a85c90c3edda4054eac",
+    "enemySha256": "62adeac59ef63b5f9188b12bb14c6b85e15f08933482f8d554d4f974be99e0aa"
+  },
+  {
+    "source": "m24_chaffee/tier01/m24_chaffee_turret.glb",
+    "enemy": "m24_chaffee/tier01/m24_chaffee_turret_enemy.glb",
+    "sourceSha256": "a11e46610ada6a707fe64d83b2fb79c0c375871f89f976bf92f70191c671206c",
+    "enemySha256": "46f6cf73f73e131f2899c6aac67f6d807fdd72890b4355665d59560c1fe7c409"
+  },
+  {
+    "source": "m26_pershing/tier01/m26_pershing_hull.glb",
+    "enemy": "m26_pershing/tier01/m26_pershing_hull_enemy.glb",
+    "sourceSha256": "bfbc2de1bfda2902433a932165925df51f8d66461d564a199b312b09bb6f8bab",
+    "enemySha256": "85c34fd04e414f66d2b0fb28c9ac731cccbb05164ec9b8d57ee530ed696e2a44"
+  },
+  {
+    "source": "m26_pershing/tier01/m26_pershing_turret.glb",
+    "enemy": "m26_pershing/tier01/m26_pershing_turret_enemy.glb",
+    "sourceSha256": "2021519d53d70d332023c1d20fa51098ea912e412399abfe2832ac20e2bfa568",
+    "enemySha256": "378fe39d5ce2f447ce487c50febe899b37ce6bc7e56416f77a906defff26f47b"
+  },
+  {
+    "source": "m4_sherman/tier01/m4_sherman_hull.glb",
+    "enemy": "m4_sherman/tier01/m4_sherman_hull_enemy.glb",
+    "sourceSha256": "c0222664f5635ec322778d8145b3e4a20fd64627b5a6d969ea9628305ff24909",
+    "enemySha256": "5e6358ed00d6d7099b038138b830126224968a0e29f6d35325c1157714204ca5"
+  },
+  {
+    "source": "m4_sherman/tier01/m4_sherman_turret.glb",
+    "enemy": "m4_sherman/tier01/m4_sherman_turret_enemy.glb",
+    "sourceSha256": "4218e8ee9f6c3aa6423b355bddd80fe674959d37c27d5d53275724d137ec7b73",
+    "enemySha256": "50e2f350c43db4351415231a7e77d8647c28a4ec702efa2836b09074b59b32cd"
+  },
+  {
+    "source": "us_infantry/tier01/leg_l.glb",
+    "enemy": "us_infantry/tier01/leg_l_enemy.glb",
+    "sourceSha256": "82609ad237bab6f944ff297d24468f7dbd18fb6aaa73ff1b0b14db78f061edda",
+    "enemySha256": "5f058424b4eadc14231acf66b4f97c9c7578212a2ccbe68ad35bdb00a804dadc"
+  },
+  {
+    "source": "us_infantry/tier01/leg_r.glb",
+    "enemy": "us_infantry/tier01/leg_r_enemy.glb",
+    "sourceSha256": "0fc6eedea94ce927b6752a999d1ae255138baee8589ca8cf061f3f203af2d866",
+    "enemySha256": "69ff001a19cc5c3e17955e9a29e281850ac99b70011f571d6d3d0142be1b7b3c"
+  },
+  {
+    "source": "us_infantry/tier01/torso.glb",
+    "enemy": "us_infantry/tier01/torso_enemy.glb",
+    "sourceSha256": "f039fe0b5bc96c9c8938e4d36c3d9eee33c310eba01cb46b2237898c23449a55",
+    "enemySha256": "eaa1449b7c551ce6fd81ac66e8aea2390c0af4b8f14d20116d37b3e2bf681645"
+  }
+]

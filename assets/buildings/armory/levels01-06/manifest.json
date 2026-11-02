@@ -1,0 +1,54 @@
+{
+  "building": "armory",
+  "displayName": "Armory",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    3,
+    3
+  ],
+  "rotationYDeg": 90,
+  "front": "+Z",
+  "screenFacing": "lower-right",
+  "file": "armory.glb",
+  "bytes": 7994956,
+  "sha256": "453d0686e6cefd23d87567e382c42cc83ea0505cff91da7f719c8ad583d7b8c6",
+  "triangles": 91104,
+  "source": "source/armory.blend",
+  "authoring": "Blender",
+  "preview": "armory_preview.png",
+  "turntable": "armory_turntable.webm",
+  "mediaRole": "actual current model",
+  "terrainSlab": false,
+  "design": "Timber warehouse with oval corrugated roof, open sliding doors, suspended tank turret, side ammunition crates and clear rollout lane",
+  "gameplay": "Existing troop acquisition unchanged; all assembly machinery static",
+  "rebuildInputs": [
+    "assets/buildings/hq/levels01-06/timber_headquarters.glb",
+    "assets/units/m4_sherman/tier01/m4_sherman_hull.glb",
+    "assets/units/m4_sherman/tier01/m4_sherman_turret.glb"
+  ],
+  "supersededFiles": [
+    {
+      "path": "assets/buildings/armory/tier01/armory_concept.jpeg",
+      "sha256": "7abae9afc8ae54cf67786ebe947069c03342448292b82f4f5310f8e156bbbee2",
+      "bytes": 185572
+    },
+    {
+      "path": "assets/buildings/armory/tier01/armory_turntable.mp4",
+      "sha256": "f9f922af739d515fbf5daff3b9b944b090a3a537106bb7b5cb1b045e7fcb85f5",
+      "bytes": 732340
+    },
+    {
+      "path": "assets/buildings/armory/tier01/armory.glb",
+      "sha256": "b9af77dadcf65eb6b953da293f3b63b8d24025209e817427df93eb046d9c948d",
+      "bytes": 6243312
+    },
+    {
+      "path": "assets/buildings/armory/tier01/README.md",
+      "sha256": "9b1538ccb85f4155b84631112a5d405cde7276bbabfe27d6afeb8cd7ac219b02",
+      "bytes": 1952
+    }
+  ]
+}

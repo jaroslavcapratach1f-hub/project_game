@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-04",
+  "removedBytes": 93691603,
+  "removedFiles": [
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy.glb",
+      "bytes": 4576112,
+      "sha256": "68b66001f7b593c8e21321e2df808d994f3eba7e4b7480cc37b7e1fa1733ab38",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy_hull_grey.glb",
+      "bytes": 4047040,
+      "sha256": "c13ffb188b4063c9d8f128f6d809f764af2febfaa3fe44d79e5d8f00c31efb96",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy_turret_grey.glb",
+      "bytes": 529692,
+      "sha256": "0ad240c0afeb429c5a5cdf668f99f90af82697c0541e5602645e27940edeef97",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy_preview.png",
+      "bytes": 964767,
+      "sha256": "b52257abcfd34a857a1e87cf5b0147ad9b09a76d93c35920e0ba1cd6aa6f41fa",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy_turntable.webm",
+      "bytes": 1931584,
+      "sha256": "7676de613b2bf4df4107a48aa6b36ae2e713dbcf92a96e36d39bb6c86df84467",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/super_heavy_concept_v2.png",
+      "bytes": 2204897,
+      "sha256": "0394b53bb1aed6253037fdd7b40af09048988c52b22c496d3d0c9afe57034c20",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/replicate_prediction_v2.json",
+      "bytes": 7489,
+      "sha256": "663e82a93c1ae8770dfa0a3f46ee3b8e1226d095edbe67cf907c823e1ff9f5d4",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/maus_v3_prepared.glb",
+      "bytes": 4168504,
+      "sha256": "7c144406742e4c919f644e04d1f6ad02e860b339579582028037093900294562",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/maus_v3_color_video.mp4",
+      "bytes": 151497,
+      "sha256": "fcc4973955803ebceb89e01811ba6cab51776b745aebc610705992264d9150e1",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/maus.glb",
+      "bytes": 4381976,
+      "sha256": "b46e2222676dbaac9aca105d3d9566a79a3ab470648db5309ceadd1ca2f3e9fa",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/source/Geometry.mjs",
+      "bytes": 5379,
+      "sha256": "07474449df30d0adba89c3e0f481b40f01815421f0ba0bb504b21925ecce446a",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/source/build.mjs",
+      "bytes": 2865,
+      "sha256": "f2ea73409cc1799013e5df725ed94fb0b85447ebfb8d9647c94b7b1d61c0947b",
+      "reason": "Rejected or intermediate SH iteration; replaced by prepared Maus hull/turret and current media"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/replicate_prediction_v3.json",
+      "bytes": 7059,
+      "sha256": "b2c8712610127fbd9b403982e564f22b1d04acda525ead747af314ab0479ae31",
+      "reason": "One-time generation job logs/scripts replaced by compact provenance"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/source/fetch_prediction.py",
+      "bytes": 1138,
+      "sha256": "b3643bb17a754fc6e1679cea59032c89ef5427570db09357611ed3a3bc8ef1f8",
+      "reason": "One-time generation job logs/scripts replaced by compact provenance"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/source/generate_replicate.py",
+      "bytes": 1730,
+      "sha256": "3cfbe142155c8031fb8bc436db9026ceef9f0d3bfc0a34cf849082030e667a2e",
+      "reason": "One-time generation job logs/scripts replaced by compact provenance"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/main_tent.glb",
+      "bytes": 6537760,
+      "sha256": "4a1227d813dc8dbff1152ede516429b2c6b6ba9ab886d88ea4054ef8ffea3ef0",
+      "reason": "Superseded by timber_headquarters.glb"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/main_tent_concept.png",
+      "bytes": 176039,
+      "sha256": "1841caec8ae42a788269fc4e7bd46e59c2f7c609be46468731c08c8fe708ef7d",
+      "reason": "Superseded by timber_headquarters.glb"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/main_tent_turntable.mp4",
+      "bytes": 890668,
+      "sha256": "06159d10159b887b4fffbb49611907b8ecbbedb67627d883afa189d6b83d6a0a",
+      "reason": "Superseded by timber_headquarters.glb"
+    },
+    {
+      "path": "assets/buildings/barracks/tier01/military_barracks.glb",
+      "bytes": 5592692,
+      "sha256": "0f0b0460b7acede8e83dad80c5b7b55e32e25db9fb963269662454eba4d694a4",
+      "reason": "Superseded; new barracks build does not read old generated model"
+    },
+    {
+      "path": "assets/buildings/barracks/tier01/military_barracks_concept.png",
+      "bytes": 195899,
+      "sha256": "205aee13be7464081475350f51df6c89a403d1ed6be79716ba43744f36d5104a",
+      "reason": "Superseded; new barracks build does not read old generated model"
+    },
+    {
+      "path": "assets/buildings/barracks/tier01/military_barracks_turntable.mp4",
+      "bytes": 588836,
+      "sha256": "bd35a0fd9f5edf1bdd828d9eb09a75458887a978896218c13edf84ffe7f23010",
+      "reason": "Superseded; new barracks build does not read old generated model"
+    },
+    {
+      "path": "assets/buildings/barracks/tier01/source/original_barracks.glb",
+      "bytes": 5592692,
+      "sha256": "0f0b0460b7acede8e83dad80c5b7b55e32e25db9fb963269662454eba4d694a4",
+      "reason": "Superseded; new barracks build does not read old generated model"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/defence_wall_segment.glb",
+      "bytes": 3880244,
+      "sha256": "6f377909b4745abf89fd1559819d0f10e24b55cdb949b9505f70f88fbb83e411",
+      "reason": "Superseded by active modular perimeter"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/defence_wall_concept.png",
+      "bytes": 185465,
+      "sha256": "abf3843d4ba271dffa79c81edbcd809890e1860087dd79a3ec8d0695278c91b1",
+      "reason": "Superseded by active modular perimeter"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/defence_wall_turntable.mp4",
+      "bytes": 263648,
+      "sha256": "1a294b5c8597a797e7206424f8b88a1c26e75596c599b0089fc44113bb47e534",
+      "reason": "Superseded by active modular perimeter"
+    },
+    {
+      "path": "assets/buildings/defence_wall/gate_tier01/gate_turntable.mp4",
+      "bytes": 415537,
+      "sha256": "f349776b9c6258fe81c0c4433fc8dac3f7179a76209e42f567d3c21fd0e9b330",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/defence_wall/gate_tier01/README.md",
+      "bytes": 3172,
+      "sha256": "7e89059c0c74fb3f370eeb59370ed637ff6dc1ff0bf1a7c82f3160421b31316f",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/defence_wall/gate_tier01/gate.glb",
+      "bytes": 4253188,
+      "sha256": "3d537889423b261f091cf75157be3b9c2820a3f94050a207ef728cc91cdb61c4",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/defence_wall/gate_tier01/gate_concept.png",
+      "bytes": 166096,
+      "sha256": "bcbd045513feb139802cc4fedae37ef7400ef48d9255e6d9296797935ee99aea",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/attack_towers/tier01/attack_towers_concept.png",
+      "bytes": 205390,
+      "sha256": "05e626dfe56220a8985b265a291064d47947b2a3a3d7595d5332e8688b2a2273",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/attack_towers/tier01/README.md",
+      "bytes": 4844,
+      "sha256": "5295b2145b1b16e479179890c487dd1e45e4b97c61cc095c668aa1f396a24444",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/attack_towers/tier01/attack_towers_turntable.mp4",
+      "bytes": 761607,
+      "sha256": "d62aece842628b7a77a3fc4534b9476708c59b131948cd76ac1cc3ef569678d5",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/attack_towers/tier01/attack_towers.glb",
+      "bytes": 6572484,
+      "sha256": "4a474a86f866fa69ce3a8246750c6cebe6f22ce5f63750782447e658cc144cc2",
+      "reason": "Superseded by modular gate/watchtower; no runtime or source dependency"
+    },
+    {
+      "path": "assets/buildings/treasury/tier01/timber_treasury.glb",
+      "bytes": 4561020,
+      "sha256": "95d46d7b925e811f57d50a5a326b5293cf4e6aa2fb2dd8ab85818ac982503ba1",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/treasury/tier01/timber_manifest.json",
+      "bytes": 99,
+      "sha256": "d80f7cf14e5664d80ad29199f90108656769267a3df84bde6ecf1471358ed747",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/steelworks/tier01/timber_steelworks.glb",
+      "bytes": 4578168,
+      "sha256": "f704e80ed02ba1c896b7161410b2d8b56ac4497b81c6aff5e4329b62184bc149",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/steelworks/tier01/timber_manifest.json",
+      "bytes": 101,
+      "sha256": "f72bf27c100048635342b792ea9d4e9daac9bd9d64e51175b4b7a30df8349e71",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/crude_oil/tier01/timber_crude_oil.glb",
+      "bytes": 4301272,
+      "sha256": "cb16727e8e28158b2eee1e625b463445b9e562e93a7f75cb740d3a84eb0654a6",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/crude_oil/tier01/timber_manifest.json",
+      "bytes": 100,
+      "sha256": "7e7727c223c35a58df008d354e128b839366e30014d032bc66bdb29d0939b0aa",
+      "reason": "Unregistered provisional procedural iteration; existing active resource model preserved"
+    },
+    {
+      "path": "assets/buildings/_resource_timber/source/Kit.mjs",
+      "bytes": 5584,
+      "sha256": "628ffad86a236e563f5695c6710a0ed017243d0c112cae4dccabfb764db7c688",
+      "reason": "Unregistered provisional resource pipeline; not accepted art"
+    },
+    {
+      "path": "assets/buildings/_resource_timber/source/build.mjs",
+      "bytes": 3949,
+      "sha256": "b6fe254f063772cb6654eeab7d2b1b94411d63ecdd308dfdcd7d2335f2d7c3b2",
+      "reason": "Unregistered provisional resource pipeline; not accepted art"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/source/__pycache__/fortifications.cpython-313.pyc",
+      "bytes": 9390,
+      "sha256": "55502cd3a3c0ce947eafc2557e14573bed8d53ad6c82db68b0c277c4313292bc",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/source/__pycache__/architecture.cpython-313.pyc",
+      "bytes": 8575,
+      "sha256": "a16903d5941bfb629a97ee4273baeb3534e94ea3baf452ace05c4bab7aee5d99",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/source/__pycache__/details.cpython-313.pyc",
+      "bytes": 5276,
+      "sha256": "f2124eb8ca2b06a252e8217a2266fd23d542346b3788d6dbdd914618edc1ec54",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/source/__pycache__/guard_figure.cpython-313.pyc",
+      "bytes": 10367,
+      "sha256": "210018997d6e51645f4da31f81afb2de205d6c6f86e4e74e2290aca46052d93d",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/hq/tier01/source/__pycache__/garrison.cpython-313.pyc",
+      "bytes": 4312,
+      "sha256": "bfb8bad8412a2eabac87f545f7cc3e8e5deee2ff1686391201c2891dd675b3f6",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/modular/source/__pycache__/pine_foliage.cpython-313.pyc",
+      "bytes": 5873,
+      "sha256": "874c9382e895241e0631f4dc9336e5b3e2f01f55177279b9c1f5f6433913a1c7",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/modular/source/__pycache__/nature_props.cpython-313.pyc",
+      "bytes": 6385,
+      "sha256": "b4a1003b81ba9a30aa227cce23092e5ba14d94c9d34de93eb18f0d45f57fa6e0",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/modular/source/__pycache__/mesh_tools.cpython-313.pyc",
+      "bytes": 11029,
+      "sha256": "6f142a73d8452cfda68e8d5fb7238165e310eacc666448c0531798a3c9d8b066",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/buildings/defence_wall/tier01/modular/source/__pycache__/structures.cpython-313.pyc",
+      "bytes": 9105,
+      "sha256": "5f5df40f21c50e9b2aee846733a08860e4494c06643f6615f1c2b8b2a7b0f346",
+      "reason": "Regenerable Python bytecode cache"
+    },
+    {
+      "path": "assets/base/ground/ground.glb",
+      "bytes": 6362924,
+      "sha256": "1d09e249d7e5766461a74233168b57221fb9df4d435faf85ae787a42d6f3579e",
+      "reason": "Unused ground model replaced by shared runtime grass plane/textures; no rebuild reference"
+    },
+    {
+      "path": "assets/base/ground/ground_concept.jpeg",
+      "bytes": 306517,
+      "sha256": "817404d16e715b34426be8bd7d09daac8c59917ccc6442a85277ef60ed685df3",
+      "reason": "Unused ground model replaced by shared runtime grass plane/textures; no rebuild reference"
+    },
+    {
+      "path": "assets/buildings/hq/levels01-06/timber_headquarters_guard_detail.png",
+      "bytes": 838401,
+      "sha256": "ebbc562daee4d37e4c35ff711b4aff6fbfcffc47736c340ceb15e0ddad1dcedf",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/hq/levels01-06/timber_headquarters_supply_detail.png",
+      "bytes": 920823,
+      "sha256": "c0e5a94211a356bba656f31625ce2b2886c2acd6cb12480b490b8d0a244d7025",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/barracks/levels01-06/reference_barracks_world_landscape.png",
+      "bytes": 1791880,
+      "sha256": "e10a292d51d5943d929b13d830b03e0095d2ef875515ee35e8b41536f2314fab",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/barracks/levels01-06/reference_barracks_world_portrait.png",
+      "bytes": 1707808,
+      "sha256": "292df6e076379651136e082dec7cb3bd9f9900a1654669df185610017f84b66e",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/ground_world_landscape.png",
+      "bytes": 3322353,
+      "sha256": "fe34c24ac325f9fa31a8405d6109f0387902e6357d9ab0e972a75300cd6420e6",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/ground_world_portrait.png",
+      "bytes": 3152548,
+      "sha256": "0557f65c91bdcfd512a2280a6ef5c592c287eece5b43ff9acaa11d5c15d82f28",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/ground_world_overview.png",
+      "bytes": 1212013,
+      "sha256": "1c84e71ab92dd35b6696c219775850f1a5c47ff1180a2fbc85a64defa56ad027",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_detail_preview.png",
+      "bytes": 1287741,
+      "sha256": "08511b5af2efd5d1bb9b1f73a829f91b4bee60900b45fbe3f270b347d8411411",
+      "reason": "Superseded diagnostic screenshot; current packet preview and turntable retained"
+    }
+  ],
+  "packetMoves": {
+    "hq/tier01": "hq/levels01-06",
+    "barracks/tier01": "barracks/levels01-06",
+    "defence_wall/tier01": "defence_wall/levels01-06"
+  },
+  "retainedSourceInputs": "HQ structure.glb, defence refinement/original/*.glb and troop originals are required rebuild inputs, not old runtime replacements."
+}

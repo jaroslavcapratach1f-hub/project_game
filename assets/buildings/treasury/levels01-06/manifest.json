@@ -1,0 +1,30 @@
+{
+  "building": "treasury",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    2,
+    2
+  ],
+  "front": "+X",
+  "rotationYDeg": 0,
+  "file": "treasury.glb",
+  "bytes": 4968952,
+  "triangles": 54912,
+  "sha256": "41fd8433b4c1a4db52e1ca67492f31bb9e4d51863504ac23c45a7f0d5904e941",
+  "authoring": "Blender 5.2.1",
+  "source": "source/blender/treasury.blend",
+  "rebuild": "source/blender/build.py",
+  "reference": "source/concept.png",
+  "preview": "treasury_preview.png",
+  "turntable": "treasury_turntable.webm",
+  "openCashierBay": true,
+  "roofColor": [
+    0.12,
+    0.135,
+    0.105,
+    1
+  ]
+}

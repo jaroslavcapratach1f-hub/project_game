@@ -1,0 +1,13 @@
+node_modules/
+dist/
+logs/
+.DS_Store
+*.log
+.env
+.env.local
+.eslintcache
+.playwright-mcp/
+
+# Local visual-reference material (Warpath screenshots etc.) — not distributed
+GAME_DESIGN.md/
+docs/visual-reference/

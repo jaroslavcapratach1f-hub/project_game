@@ -1,0 +1,28 @@
+{
+  "building": "engineering",
+  "displayName": "Factory",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    3,
+    4
+  ],
+  "front": "+Z",
+  "rotationYDeg": 90,
+  "screenFacing": "lower-right",
+  "file": "engineering.glb",
+  "bytes": 5874932,
+  "triangles": 69608,
+  "sha256": "841a1b4540a96fdcdc8623731ba0df72b6c1cb6eef6a2c98c833db573a400492",
+  "authoring": "Blender",
+  "source": "source/engineering.blend",
+  "preview": "engineering_preview.png",
+  "turntable": "engineering_turntable.webm",
+  "mediaRole": "actual current model",
+  "terrainSlab": false,
+  "productionProps": "static; existing crafting logic unchanged",
+  "design": "Compact timber sawtooth factory with material stacks, left-side manual truss jib crane and brick chimney",
+  "hqHeightRatio": 0.6113
+}

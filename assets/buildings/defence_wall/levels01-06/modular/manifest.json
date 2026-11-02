@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "assets": {
+    "wall_post": {
+      "file": "wall_post.glb",
+      "triangles": 48,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 88680,
+      "sha256": "7753b8415518fee2f0173a451ad65800883c70e3abc3aaf074bb1f5e5163299c"
+    },
+    "wall_end": {
+      "file": "wall_end.glb",
+      "triangles": 312,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 153356,
+      "sha256": "d3c08727edc7212927c5dba003afd45ffa5382cbbf1366b700529c84ef37700a"
+    },
+    "wall_straight": {
+      "file": "wall_straight.glb",
+      "triangles": 576,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 175100,
+      "sha256": "1c97b343f71330138cb800aa112b92acfe39ae06c13eb0479921b38ce1c5ed90"
+    },
+    "wall_corner": {
+      "file": "wall_corner.glb",
+      "triangles": 576,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 175100,
+      "sha256": "3fb9781907311bc3eb2124c71e450becb55cd3c3a08e8a2f922f4b2d84a592cd"
+    },
+    "wall_junction": {
+      "file": "wall_junction.glb",
+      "triangles": 840,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 196848,
+      "sha256": "3b5dade86ec1a211b1e7d985de480980fae897f6a8de46c14c34076908eef678"
+    },
+    "wall_cross": {
+      "file": "wall_cross.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 218592,
+      "sha256": "2adfbd7522204c9b568f55aa9258b7e9c53065f541770df44a80f93aecc76648"
+    },
+    "wall_mask_2": {
+      "file": "wall_mask_2.glb",
+      "triangles": 840,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 191816,
+      "sha256": "45cbe3b2988231668adf3eb6840fda9d488971ca635fcb40133ef237f5187c15"
+    },
+    "wall_mask_8": {
+      "file": "wall_mask_8.glb",
+      "triangles": 840,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 191820,
+      "sha256": "7f071d95d09b6b0142c8a81ae3f9c043e4aa8c79f52d8bbf88815824b60d7a30"
+    },
+    "wall_mask_32": {
+      "file": "wall_mask_32.glb",
+      "triangles": 840,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 191820,
+      "sha256": "39dccb4fc3a59ba225df831e9beee0741334e2cdfc9b8e59e1339a6e20af7017"
+    },
+    "wall_mask_128": {
+      "file": "wall_mask_128.glb",
+      "triangles": 840,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 191820,
+      "sha256": "895c505c97866bcd290e6656db1033dbbe9bf6c699c29330aa3b0adf194e629c"
+    },
+    "wall_mask_34": {
+      "file": "wall_mask_34.glb",
+      "triangles": 1632,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 252008,
+      "sha256": "57e6885c56439d74ef7b0cd946c7d95ec9dd4d7ef89f3e3c83bf3c54ae76a0ec"
+    },
+    "wall_mask_136": {
+      "file": "wall_mask_136.glb",
+      "triangles": 1632,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 252008,
+      "sha256": "f10b3976a8dc86669e37a5dfb3ad039819b4a9a4e206e6a58138c34ebee527ad"
+    },
+    "wall_mask_144": {
+      "file": "wall_mask_144.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "dc9700344d43b147f60903e270b53dff9ae4c05a7533bf4d67a606743a629ca5"
+    },
+    "wall_mask_72": {
+      "file": "wall_mask_72.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "d927a8ec746a8fd9ef117a799dd57f62c1b986b3ba45af7e5e81d54cdb8f19dd"
+    },
+    "wall_mask_9": {
+      "file": "wall_mask_9.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "fa78d4c49e6ed63ac3908d919b07fa3c580f9ea22385126b26c38c50056c6be2"
+    },
+    "wall_mask_18": {
+      "file": "wall_mask_18.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "c59c20f1f81385b6f244bda3634553b5b4fd5788de8159a5549f3bae5e8f8f56"
+    },
+    "wall_mask_36": {
+      "file": "wall_mask_36.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "ec71b1c6115456455f5a864ebfb070635e474375d68abcdaf1b66e8bd84cf2e8"
+    },
+    "wall_mask_33": {
+      "file": "wall_mask_33.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "03d00cad9d3415b0f4a6123e66f9ac1e4a561d2fa792ad2a9ffec1eab3491cb1"
+    },
+    "wall_mask_66": {
+      "file": "wall_mask_66.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "12c13a6208ba8e215660ac049eef7ca08f3b33a3e87b58f68b688a8a4704a0ad"
+    },
+    "wall_mask_129": {
+      "file": "wall_mask_129.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213564,
+      "sha256": "32b907153e74e22d3b69a4f306d5a9759ef4b3d07b1c36f8f94f336d97781d65"
+    },
+    "trench_straight": {
+      "file": "trench_straight.glb",
+      "triangles": 476,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 86240,
+      "sha256": "86f945752f5b1bd0459d468c1c9ee1b1d92f72a5968bd50b96efb7e04ca34478"
+    },
+    "trench_corner": {
+      "file": "trench_corner.glb",
+      "triangles": 476,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 86240,
+      "sha256": "90bd9ef05f5bac3bbd4789cef4d7dfd9c636c511988b3629febb7b06ac16acdf"
+    },
+    "trench_end": {
+      "file": "trench_end.glb",
+      "triangles": 332,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 74468,
+      "sha256": "1110ecc15b26b27e516425c2a9f489bfab432b88977fbd8ac7092f5a171ecf60"
+    },
+    "trench_junction": {
+      "file": "trench_junction.glb",
+      "triangles": 620,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 98024,
+      "sha256": "c4b85eda2cc602c3dbb4f86f9b125ecd6ed31ad0f02ff17d797161daad2247e9"
+    },
+    "trench_crossing": {
+      "file": "trench_crossing.glb",
+      "triangles": 764,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 109820,
+      "sha256": "b646718a54aca2a6e5ae20da9c50592a26c3444a44448990ffd69ead1fc98c98"
+    },
+    "gate": {
+      "file": "gate.glb",
+      "triangles": 2000,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 258956,
+      "sha256": "d4884bf45a6c0bc7b712f8d9ec5c29e3456d7a9196dfc726bd33ea2359a42ac7"
+    },
+    "watchtower": {
+      "file": "watchtower.glb",
+      "triangles": 7888,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 581420,
+      "sha256": "582cc3676e8cc3c8908864768ff5d250be45c6fad8ec005c5b61b2301036b76d"
+    },
+    "hedgehog": {
+      "file": "hedgehog.glb",
+      "triangles": 1036,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 113488,
+      "sha256": "eed6a5328f00885ae938195443dedc07246626561f7504b15fcfdc4dad028883"
+    },
+    "power_pole": {
+      "file": "power_pole.glb",
+      "triangles": 500,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 166896,
+      "sha256": "c578e9a52610f1ce698ba229af8ad80911759070737fd04f7cd0ba9a5a79a963"
+    },
+    "crate": {
+      "file": "crate.glb",
+      "triangles": 1012,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 211732,
+      "sha256": "437dbed05fbb39e9f15a820f2a4252bd15199c76d121d4c78b981d1f9ad9da38"
+    },
+    "barrel": {
+      "file": "barrel.glb",
+      "triangles": 292,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 61344,
+      "sha256": "f857bafd3c43bdb5ccb992e27ff75183e95b03b862babb0390bb08f325ba0e10"
+    },
+    "barbed_wire": {
+      "file": "barbed_wire.glb",
+      "triangles": 1560,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 103772,
+      "sha256": "c7411f135c77235f6c91863cc99d66cbbac6e9554a45a24190762d46ca8ac29d"
+    },
+    "trench_bridge": {
+      "file": "trench_bridge.glb",
+      "triangles": 352,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 114484,
+      "sha256": "6179b75f74f4dc1a1c9660436013dbee9e3b41030d5f4d65fcf7fbd9f93675e4"
+    },
+    "pine_a": {
+      "file": "pine_a.glb",
+      "triangles": 23978,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 1937856,
+      "sha256": "d722fdc2d47ad6e311b2b9a5fe41ef17d532bf16d6092db4a83d4af098d7c0ad"
+    },
+    "pine_b": {
+      "file": "pine_b.glb",
+      "triangles": 21612,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 1756076,
+      "sha256": "ed7bbd20fa1b32e7eba0bc9285583cd4b737fd263ec98073c0a752f6795bc17d"
+    },
+    "pine_c": {
+      "file": "pine_c.glb",
+      "triangles": 14176,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 1184772,
+      "sha256": "7a9446f72737e6a96c3bf46e48cf0f6273854cea8e58fee3ff2dcc50ea8f39d6"
+    },
+    "sandbag": {
+      "file": "sandbag.glb",
+      "triangles": 144,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 45532,
+      "sha256": "a30b685fd78ea1658ede60099fa676fc2cb3268d0654a25a1c6f24726f66f426"
+    },
+    "storage_box": {
+      "file": "storage_box.glb",
+      "triangles": 44,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 5312,
+      "sha256": "dcc773a84726457adbc37577de45ac86dd00fa18ae984035fc822972178a404e"
+    },
+    "wall_mask_132": {
+      "file": "wall_mask_132.glb",
+      "triangles": 1104,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 213560,
+      "sha256": "a210c04019770d3936c189709372bd220630eb6b1c177bc0b8d8656736463507"
+    },
+    "wire_post": {
+      "file": "wire_post.glb",
+      "triangles": 44,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 5180,
+      "sha256": "1ee644fbf06bac268965613f2725caa99b9a04b62c7650265402f84ecc124390"
+    },
+    "trench_revetment": {
+      "file": "trench_revetment.glb",
+      "triangles": 872,
+      "pivot": "ground center",
+      "units": "one base grid cell",
+      "status": "active reusable module; current file inspected",
+      "bytes": 173708,
+      "sha256": "959865a7059f46080c3f38f92e13cc344aa3e57b026f40e67c6a290d3b91d88c"
+    },
+    "gate_marker": {
+      "file": "gate_marker.glb",
+      "triangles": 472,
+      "bytes": 53792,
+      "sha256": "c2972bbfdf26fa6f87b519f94036a4299dd84845c00266e119639e93cd9507fb",
+      "status": "active reusable module; current file inspected"
+    }
+  },
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "sharedMeshAcrossLevels": true
+}

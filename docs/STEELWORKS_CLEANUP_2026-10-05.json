@@ -1,0 +1,45 @@
+{
+  "removed": [
+    {
+      "path": "assets/buildings/steelworks/tier01/steelworks.glb",
+      "bytes": 6099656,
+      "sha256": "feb4775eb894345708684759fadf29ca32a2f1fbce63774650017e053e7a31c6"
+    },
+    {
+      "path": "assets/buildings/steelworks/tier01/steelworks_turntable.mp4",
+      "bytes": 682489,
+      "sha256": "4ef2b5e9b52cbd9b9ffbe71402b7af930e4cd0cdffa0db074f0a4ffaf57c7883"
+    },
+    {
+      "path": "assets/buildings/steelworks/tier01/README.md",
+      "bytes": 4222,
+      "sha256": "e98d85428123d6a8f4ce4bf64ff61bb49ea3b3f77cb06e4169b91d272ec7ea8f"
+    },
+    {
+      "path": "assets/buildings/steelworks/tier01/steelworks_concept.png",
+      "bytes": 134652,
+      "sha256": "d91440e97c2751f0373c5a8989eff8bce90d2f0279a8b6f4afb8ba998926d221"
+    },
+    {
+      "path": "assets/buildings/steelworks/levels01-06/source/steelworks.blend1",
+      "bytes": 3988965,
+      "sha256": "66df24d1b32e765bb18bf0704c53206ed65dd22c7b0b222fa0a94bfeba7c7435"
+    },
+    {
+      "path": "assets/buildings/steelworks/levels01-06/source/__pycache__/structure.cpython-313.pyc",
+      "bytes": 4847,
+      "sha256": "587821d400d0136287ad1a27fb0f5fa724a2c34eceb54c09a838da417f145960"
+    },
+    {
+      "path": "assets/buildings/steelworks/levels01-06/source/__pycache__/steel_export.cpython-313.pyc",
+      "bytes": 3396,
+      "sha256": "81700743ddb68bd4e8f60c560802c4a2d1aca15c095ada830ae39fe626ab4d46"
+    },
+    {
+      "path": "assets/buildings/steelworks/levels01-06/source/__pycache__/equipment.cpython-313.pyc",
+      "bytes": 9514,
+      "sha256": "646a1ae6dbaef7198c86ff99402222930dac2928245f5831c46e68f115b44fc4"
+    }
+  ],
+  "reason": "Superseded steelworks packet and temporary build backups"
+}

@@ -1,0 +1,200 @@
+{
+  "assets": [
+    {
+      "file": "barbed_wire.glb",
+      "triangles": 1560,
+      "draws": 1
+    },
+    {
+      "file": "barrel.glb",
+      "triangles": 292,
+      "draws": 3
+    },
+    {
+      "file": "crate.glb",
+      "triangles": 1012,
+      "draws": 3
+    },
+    {
+      "file": "gate.glb",
+      "triangles": 2000,
+      "draws": 3
+    },
+    {
+      "file": "hedgehog.glb",
+      "triangles": 1036,
+      "draws": 1
+    },
+    {
+      "file": "power_pole.glb",
+      "triangles": 500,
+      "draws": 5
+    },
+    {
+      "file": "sandbag.glb",
+      "triangles": 144,
+      "draws": 1
+    },
+    {
+      "file": "storage_box.glb",
+      "triangles": 44,
+      "draws": 1
+    },
+    {
+      "file": "trench_bridge.glb",
+      "triangles": 352,
+      "draws": 2
+    },
+    {
+      "file": "trench_corner.glb",
+      "triangles": 476,
+      "draws": 3
+    },
+    {
+      "file": "trench_crossing.glb",
+      "triangles": 764,
+      "draws": 3
+    },
+    {
+      "file": "trench_end.glb",
+      "triangles": 332,
+      "draws": 3
+    },
+    {
+      "file": "trench_junction.glb",
+      "triangles": 620,
+      "draws": 3
+    },
+    {
+      "file": "trench_revetment.glb",
+      "triangles": 872,
+      "draws": 5
+    },
+    {
+      "file": "trench_straight.glb",
+      "triangles": 476,
+      "draws": 3
+    },
+    {
+      "file": "wall_corner.glb",
+      "triangles": 576,
+      "draws": 3
+    },
+    {
+      "file": "wall_cross.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_end.glb",
+      "triangles": 312,
+      "draws": 3
+    },
+    {
+      "file": "wall_junction.glb",
+      "triangles": 840,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_128.glb",
+      "triangles": 840,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_129.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_132.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_136.glb",
+      "triangles": 1632,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_144.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_18.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_2.glb",
+      "triangles": 840,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_32.glb",
+      "triangles": 840,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_33.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_34.glb",
+      "triangles": 1632,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_36.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_66.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_72.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_8.glb",
+      "triangles": 840,
+      "draws": 3
+    },
+    {
+      "file": "wall_mask_9.glb",
+      "triangles": 1104,
+      "draws": 3
+    },
+    {
+      "file": "wall_post.glb",
+      "triangles": 48,
+      "draws": 2
+    },
+    {
+      "file": "wall_straight.glb",
+      "triangles": 576,
+      "draws": 3
+    },
+    {
+      "file": "watchtower.glb",
+      "triangles": 7888,
+      "draws": 5
+    },
+    {
+      "file": "wire_post.glb",
+      "triangles": 44,
+      "draws": 1
+    }
+  ],
+  "status": "awaiting visual verification",
+  "verification": "32 repository tests and production build pass; lint zero errors (186 warnings); WorldScene relocation preserves roads; Chrome portrait/landscape inspected; no physical-device benchmark",
+  "additional_assets": [
+    "gate_marker.glb"
+  ],
+  "foliage_manifest": "tree_refinement_manifest.json"
+}

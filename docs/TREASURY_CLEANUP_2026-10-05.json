@@ -1,0 +1,113 @@
+{
+  "removed": [
+    {
+      "path": "assets/buildings/treasury/tier01/treasury.glb",
+      "bytes": 6245444,
+      "sha256": "7eb54528b01de534237239f4b63e43681319694076d99779ce3999afef2cf5cc",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/tier01/README.md",
+      "bytes": 3577,
+      "sha256": "786ac082456f79313abd1aefb8ba6201a75cee6187eae309610a4544f92b33d4",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/tier01/treasury_concept.png",
+      "bytes": 136023,
+      "sha256": "f183534a5bbc49321a5ffb3fb84aa116225af0fb32f19347b45600bf2b656c37",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/tier01/treasury_turntable.mp4",
+      "bytes": 670488,
+      "sha256": "70316c41285c1244aeb8f122ca9120145af2d86f7e1ddcd02338931146dfe48d",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/prepare.py",
+      "bytes": 2722,
+      "sha256": "0d6fd9839b7569ab414b502f119623836cd9f32581a80e889e46a015dbc092a9",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/roof.py",
+      "bytes": 2074,
+      "sha256": "856a7ae9e59aca78551d110457fd39a774885a8b406ef47b4960353bd0601a39",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/original.glb",
+      "bytes": 5567072,
+      "sha256": "9ba40111b5db95d3ae270c569943b4de7b9d751b30d91821fb29c96a672c7699",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/prediction.json",
+      "bytes": 7667,
+      "sha256": "0e140d38cb0569470fbd8ee348cf520a29c09be2b3bcb54c45d376d80216119a",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/dressing.cpython-313.pyc",
+      "bytes": 11479,
+      "sha256": "f40e310a1847f2cadb97d015d4901b22c885be9ed4de04a27670351f595ac4d7",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/materials.cpython-313.pyc",
+      "bytes": 4130,
+      "sha256": "4e1b94992aee1cc4be85ead65562aafd5a835cb43d1e7fce98cc217c3487209f",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/interior.cpython-313.pyc",
+      "bytes": 8136,
+      "sha256": "8aaf23fde4c21f174329ba6b2ab7ea9b346b3a4fdee5eacfc8dad97d75c847c1",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/shading.cpython-313.pyc",
+      "bytes": 3392,
+      "sha256": "97a9fcb44de8648b58d1a18a4d36a199d2ab1ac2448a12438ba64ae9f6132d22",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/architecture.cpython-313.pyc",
+      "bytes": 9112,
+      "sha256": "74c07d11cfeee6b18291a61382302ea45b46884280412a2bd83f36a032557db7",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/bake.cpython-313.pyc",
+      "bytes": 5684,
+      "sha256": "7ce474259d2bbf337f7716819108829aa1a1876892d2876fb94e25404baa5b5c",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/export.cpython-313.pyc",
+      "bytes": 3149,
+      "sha256": "89d6a5b68883d50d7054c305ef1ebd2c615ee598e5a48050775d9cec2587b80a",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/__pycache__/geometry.cpython-313.pyc",
+      "bytes": 9639,
+      "sha256": "5a9428c8aca119d5518a215ec4287791ce0d8591e5d6598520db8de348f00f8a",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/treasury.blend1",
+      "bytes": 4411179,
+      "sha256": "3bb4b4817c3f86f65eb48edab0cf179125b72512504b9257c65574ac92c995df",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/source/blender/shading.py",
+      "bytes": 1191,
+      "sha256": "4bc43b7ce8769f697aff806034241e9cdff7d9e161596fe3da97b9a405151304",
+      "reason": "Superseded treasury asset, rejected reconstruction or temporary build backup"
+    }
+  ],
+  "bytesRemoved": 17102158
+}

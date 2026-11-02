@@ -1,0 +1,927 @@
+{
+  "version": 1,
+  "updated": "2026-10-11",
+  "sharedBuildingVisuals": {
+    "levels": [
+      1,
+      6
+    ],
+    "headquarters": "assets/buildings/hq/levels01-06",
+    "barracks": "assets/buildings/barracks/levels01-06",
+    "treasury": "assets/buildings/treasury/levels01-06",
+    "steelworks": "assets/buildings/steelworks/levels01-06",
+    "crude_oil": "assets/buildings/crude_oil/levels01-06",
+    "engineering": "assets/buildings/engineering/levels01-06",
+    "armory": "assets/buildings/armory/levels01-06",
+    "research_center": "assets/buildings/research_center/levels01-06",
+    "officer_barracks": "assets/buildings/officer_barracks/levels01-06",
+    "defence_wall": "assets/buildings/defence_wall/levels01-06/modular",
+    "attack_towers": "assets/buildings/defence_wall/levels01-06/modular/watchtower.glb",
+    "gate": "assets/buildings/defence_wall/levels01-06/modular/gate.glb"
+  },
+  "models": [
+    {
+      "path": "assets/buildings/armory/levels01-06/armory.glb",
+      "role": "runtime",
+      "bytes": 7994956,
+      "triangles": 91104,
+      "sha256": "453d0686e6cefd23d87567e382c42cc83ea0505cff91da7f719c8ad583d7b8c6"
+    },
+    {
+      "path": "assets/buildings/assembly/tier01/assembly.glb",
+      "role": "runtime",
+      "bytes": 5743808,
+      "triangles": 86623,
+      "sha256": "f371859f10398234b7d277ac97a1ab1d6961fd76d257053d5bfdffa400eb95a9"
+    },
+    {
+      "path": "assets/buildings/barracks/levels01-06/reference_barracks.glb",
+      "role": "runtime",
+      "bytes": 5696216,
+      "triangles": 24250,
+      "sha256": "7407a21d323227ac17a280b4f8999640599044437582d714b2a3968dbcbc7ca7"
+    },
+    {
+      "path": "assets/buildings/crude_oil/levels01-06/crude_oil.glb",
+      "role": "runtime",
+      "bytes": 4436704,
+      "triangles": 39860,
+      "sha256": "0d566d451bc829481f2a21d3a473de279535bd623fe9e157f32377b837bf71eb"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/barbed_wire.glb",
+      "role": "runtime",
+      "bytes": 103772,
+      "triangles": 1560,
+      "sha256": "c7411f135c77235f6c91863cc99d66cbbac6e9554a45a24190762d46ca8ac29d"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/barrel.glb",
+      "role": "runtime",
+      "bytes": 61344,
+      "triangles": 292,
+      "sha256": "f857bafd3c43bdb5ccb992e27ff75183e95b03b862babb0390bb08f325ba0e10"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/crate.glb",
+      "role": "runtime",
+      "bytes": 211732,
+      "triangles": 1012,
+      "sha256": "437dbed05fbb39e9f15a820f2a4252bd15199c76d121d4c78b981d1f9ad9da38"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/gate.glb",
+      "role": "runtime",
+      "bytes": 258956,
+      "triangles": 2000,
+      "sha256": "d4884bf45a6c0bc7b712f8d9ec5c29e3456d7a9196dfc726bd33ea2359a42ac7"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/gate_marker.glb",
+      "role": "runtime",
+      "bytes": 53792,
+      "triangles": 472,
+      "sha256": "c2972bbfdf26fa6f87b519f94036a4299dd84845c00266e119639e93cd9507fb"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/hedgehog.glb",
+      "role": "runtime",
+      "bytes": 113488,
+      "triangles": 1036,
+      "sha256": "eed6a5328f00885ae938195443dedc07246626561f7504b15fcfdc4dad028883"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/pine_a.glb",
+      "role": "runtime",
+      "bytes": 1937856,
+      "triangles": 23978,
+      "sha256": "d722fdc2d47ad6e311b2b9a5fe41ef17d532bf16d6092db4a83d4af098d7c0ad"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/pine_b.glb",
+      "role": "runtime",
+      "bytes": 1756076,
+      "triangles": 21612,
+      "sha256": "ed7bbd20fa1b32e7eba0bc9285583cd4b737fd263ec98073c0a752f6795bc17d"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/pine_c.glb",
+      "role": "runtime",
+      "bytes": 1184772,
+      "triangles": 14176,
+      "sha256": "7a9446f72737e6a96c3bf46e48cf0f6273854cea8e58fee3ff2dcc50ea8f39d6"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/power_pole.glb",
+      "role": "runtime",
+      "bytes": 166896,
+      "triangles": 500,
+      "sha256": "c578e9a52610f1ce698ba229af8ad80911759070737fd04f7cd0ba9a5a79a963"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/sandbag.glb",
+      "role": "runtime",
+      "bytes": 45532,
+      "triangles": 144,
+      "sha256": "a30b685fd78ea1658ede60099fa676fc2cb3268d0654a25a1c6f24726f66f426"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/barbed_wire.glb",
+      "role": "rebuild-input",
+      "bytes": 44060,
+      "triangles": 660,
+      "sha256": "4cd640b783bb88912e20b5f14cf33b9c1a5e3fbcaca9d0364f7db0fd919fe9ed"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/barrel.glb",
+      "role": "rebuild-input",
+      "bytes": 59508,
+      "triangles": 292,
+      "sha256": "95993683ffa598bba3496cc4cfa796fdf68fb203deecaa651d4a74a3fe0c6043"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/crate.glb",
+      "role": "rebuild-input",
+      "bytes": 204684,
+      "triangles": 1012,
+      "sha256": "a41a823dd89b607a3e7e6ac53a2fe7fc2f15f0d843bb9d362504a044f7e570b7"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/gate.glb",
+      "role": "rebuild-input",
+      "bytes": 170172,
+      "triangles": 1140,
+      "sha256": "6fd7d76bc87d9bec8e4ba7226101205e6f6a3b8e1ef1ebabbef99ec1438ec855"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/hedgehog.glb",
+      "role": "rebuild-input",
+      "bytes": 32956,
+      "triangles": 424,
+      "sha256": "4ba7978b4aae3a5af23b8718fbdd64235ba3fe208cbddee263eea6f15b184353"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/pine_a.glb",
+      "role": "rebuild-input",
+      "bytes": 531912,
+      "triangles": 11624,
+      "sha256": "4836b8dc8b796caef60f479702690bcf63d433276aadd44028a82e51c8563be2"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/pine_b.glb",
+      "role": "rebuild-input",
+      "bytes": 488748,
+      "triangles": 10476,
+      "sha256": "895efc5c811004dda8fc33091078db7f4686c7cf844642b59409d73d2f225303"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/pine_c.glb",
+      "role": "rebuild-input",
+      "bytes": 353048,
+      "triangles": 6868,
+      "sha256": "50a752349844eac5117609b70511707e712731e9b88d8d4a8386df0814c5b5ce"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/power_pole.glb",
+      "role": "rebuild-input",
+      "bytes": 163628,
+      "triangles": 500,
+      "sha256": "58ef7c18ecb215da07217a24458692b93adc62787f8c0bcb185e314be703eee2"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/sandbag.glb",
+      "role": "rebuild-input",
+      "bytes": 47712,
+      "triangles": 88,
+      "sha256": "effb1459971cec86a581726f8f5c59ed8f9b2aa86966d9ed74ff29e4ea254b41"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/storage_box.glb",
+      "role": "rebuild-input",
+      "bytes": 4544,
+      "triangles": 44,
+      "sha256": "437d819c116764604ae43530b1489c71b16cbf61d6f013dc0c2692d2b51c8a1d"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_bridge.glb",
+      "role": "rebuild-input",
+      "bytes": 111708,
+      "triangles": 352,
+      "sha256": "f1c54162da6005a8c6e54d74f923f5ca39156a4ecfbbd3794b41a2afa0961c0c"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_corner.glb",
+      "role": "rebuild-input",
+      "bytes": 82628,
+      "triangles": 476,
+      "sha256": "6be702adcadeee44849ecc84ba86c9568ed75a0a6adacd0e0d1416c9ea4b6028"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_crossing.glb",
+      "role": "rebuild-input",
+      "bytes": 104336,
+      "triangles": 764,
+      "sha256": "ea13f586c87728117701e6f8534390c4ac4f624c94031c31519394648af799dc"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_end.glb",
+      "role": "rebuild-input",
+      "bytes": 71784,
+      "triangles": 332,
+      "sha256": "54d02ac80f5be0cca62bd5a1d135b33d0d895b72df27419be5477874bfeec9f2"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_junction.glb",
+      "role": "rebuild-input",
+      "bytes": 93484,
+      "triangles": 620,
+      "sha256": "f4cbcc9b067e3f2d2854b99bbd58fe41477b04269d0e832db8c5291398da0b2e"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_revetment.glb",
+      "role": "rebuild-input",
+      "bytes": 179232,
+      "triangles": 660,
+      "sha256": "153fcb21663edbf2e890565c75c27acb4694b16b54e96846a9d2705a03ab2c82"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/trench_straight.glb",
+      "role": "rebuild-input",
+      "bytes": 82632,
+      "triangles": 476,
+      "sha256": "d1109b66747cb9b9bf41a711060a27f0cd50f467d81017d2d82cd7b76fbb8f2c"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_corner.glb",
+      "role": "rebuild-input",
+      "bytes": 245700,
+      "triangles": 1632,
+      "sha256": "dd045a1c2c58007c895340bebd7c4fd95b99f811ca8932933a6b616993d575a7"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_cross.glb",
+      "role": "rebuild-input",
+      "bytes": 360296,
+      "triangles": 3216,
+      "sha256": "2417e7f97fba844e19361ad600ff8bd1ec63ac4afcc0e4c68c0f22fd06be6ebf"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_end.glb",
+      "role": "rebuild-input",
+      "bytes": 186404,
+      "triangles": 840,
+      "sha256": "4eed99361ed4eb81729d3a34c0101470794018eadf51651f0ce13597b34f2d1f"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_junction.glb",
+      "role": "rebuild-input",
+      "bytes": 301152,
+      "triangles": 2424,
+      "sha256": "b582640f9f2ca4da00e7ef63775fd61fcb74fe71bb6e70cfaeeb8d5c1c1e4564"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_128.glb",
+      "role": "rebuild-input",
+      "bytes": 186420,
+      "triangles": 840,
+      "sha256": "eb94c57c11bae63a5b88e1118d51f8d72dda729c79ff4b6d7b349ccb50d8c2d5"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_129.glb",
+      "role": "rebuild-input",
+      "bytes": 241864,
+      "triangles": 1632,
+      "sha256": "525d8845e74af40df2bb074a1adcca15b1743319a54d0b1ed33903a1b6b7eff8"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_132.glb",
+      "role": "rebuild-input",
+      "bytes": 245700,
+      "triangles": 1632,
+      "sha256": "5c933a71412f1a526b199443e871d30d37c8279de64904b88e97586c8e647c3a"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_136.glb",
+      "role": "rebuild-input",
+      "bytes": 241860,
+      "triangles": 1632,
+      "sha256": "ada5e77cab7846f9d66dc1b8e77cffccd2024d3eb00297c34606541a0161fbfb"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_144.glb",
+      "role": "rebuild-input",
+      "bytes": 241864,
+      "triangles": 1632,
+      "sha256": "82698ed345b42675fc784003313b62c20f290da0546bce7f8996aa71cb1e75f8"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_18.glb",
+      "role": "rebuild-input",
+      "bytes": 241860,
+      "triangles": 1632,
+      "sha256": "f941184796a175a5d47a4ccca1c8ce7cdf7b450fe3cbfc994e6a6a1eb9176732"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_2.glb",
+      "role": "rebuild-input",
+      "bytes": 186412,
+      "triangles": 840,
+      "sha256": "c67be51b4543cfa2818f43b6bf95a5247a1bf25c358e8ddd4b3efbb4bbcd3b4f"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_32.glb",
+      "role": "rebuild-input",
+      "bytes": 186416,
+      "triangles": 840,
+      "sha256": "d5984bec42880b19aa880ed396f867eea24aa6384c51ab2161945d694adcb752"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_33.glb",
+      "role": "rebuild-input",
+      "bytes": 241860,
+      "triangles": 1632,
+      "sha256": "38c7921d8742b5992eb9163345af287420870032444b12b367c89f1f17a4ebec"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_34.glb",
+      "role": "rebuild-input",
+      "bytes": 241856,
+      "triangles": 1632,
+      "sha256": "89764ba025e1a8ef919102f5851e46a60d491d0ec55df9d90f000b8e7e16c2b1"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_36.glb",
+      "role": "rebuild-input",
+      "bytes": 245700,
+      "triangles": 1632,
+      "sha256": "c2b6075a519c110d4802d6790a84353e2eeb5c75a811fde239f8a508f4a91572"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_66.glb",
+      "role": "rebuild-input",
+      "bytes": 245572,
+      "triangles": 1632,
+      "sha256": "b4f10265b1be6b17505c2a4a2c75c9cff9f57021f704eeaf9e91bcc2efb0b855"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_72.glb",
+      "role": "rebuild-input",
+      "bytes": 245572,
+      "triangles": 1632,
+      "sha256": "f402cdf218a3c6485e2b2e5e7460bff98b7d12b91dc038cc54ae3d98b767de6f"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_8.glb",
+      "role": "rebuild-input",
+      "bytes": 186412,
+      "triangles": 840,
+      "sha256": "8980e76f6eebee226e91ec0907592eea84baca85cc1a6724094e40cf17727de8"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_mask_9.glb",
+      "role": "rebuild-input",
+      "bytes": 241856,
+      "triangles": 1632,
+      "sha256": "5e54e8c2dd646effb872c2f0b92c36cad8006015ee1c438606fbd52c7595cc82"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_post.glb",
+      "role": "rebuild-input",
+      "bytes": 87684,
+      "triangles": 48,
+      "sha256": "1b4f2175c24006ccb9dfd17e2dcb4c564197876d67fac56fab8301f515bbf5bb"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wall_straight.glb",
+      "role": "rebuild-input",
+      "bytes": 241868,
+      "triangles": 1632,
+      "sha256": "9d23cad15022d0312f6d896c2e9e49f7ca678a6cb66950ae6aa0c231275641dc"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/watchtower.glb",
+      "role": "rebuild-input",
+      "bytes": 533600,
+      "triangles": 5632,
+      "sha256": "09d1cd61bbb78301a227e455ba075c97403d41cb49f66d8e1a242d2b9780ca7b"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/source/refinement/original/wire_post.glb",
+      "role": "rebuild-input",
+      "bytes": 4536,
+      "triangles": 44,
+      "sha256": "8186f9453edf2b8a5d1a128e40b51259036ffd1c79968aa8a7496dda14add4e8"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/storage_box.glb",
+      "role": "runtime",
+      "bytes": 5312,
+      "triangles": 44,
+      "sha256": "dcc773a84726457adbc37577de45ac86dd00fa18ae984035fc822972178a404e"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_bridge.glb",
+      "role": "runtime",
+      "bytes": 114484,
+      "triangles": 352,
+      "sha256": "6179b75f74f4dc1a1c9660436013dbee9e3b41030d5f4d65fcf7fbd9f93675e4"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_corner.glb",
+      "role": "runtime",
+      "bytes": 86240,
+      "triangles": 476,
+      "sha256": "90bd9ef05f5bac3bbd4789cef4d7dfd9c636c511988b3629febb7b06ac16acdf"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_crossing.glb",
+      "role": "runtime",
+      "bytes": 109820,
+      "triangles": 764,
+      "sha256": "b646718a54aca2a6e5ae20da9c50592a26c3444a44448990ffd69ead1fc98c98"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_end.glb",
+      "role": "runtime",
+      "bytes": 74468,
+      "triangles": 332,
+      "sha256": "1110ecc15b26b27e516425c2a9f489bfab432b88977fbd8ac7092f5a171ecf60"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_junction.glb",
+      "role": "runtime",
+      "bytes": 98024,
+      "triangles": 620,
+      "sha256": "c4b85eda2cc602c3dbb4f86f9b125ecd6ed31ad0f02ff17d797161daad2247e9"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_revetment.glb",
+      "role": "runtime",
+      "bytes": 173708,
+      "triangles": 872,
+      "sha256": "959865a7059f46080c3f38f92e13cc344aa3e57b026f40e67c6a290d3b91d88c"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/trench_straight.glb",
+      "role": "runtime",
+      "bytes": 86240,
+      "triangles": 476,
+      "sha256": "86f945752f5b1bd0459d468c1c9ee1b1d92f72a5968bd50b96efb7e04ca34478"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_corner.glb",
+      "role": "runtime",
+      "bytes": 175100,
+      "triangles": 576,
+      "sha256": "3fb9781907311bc3eb2124c71e450becb55cd3c3a08e8a2f922f4b2d84a592cd"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_cross.glb",
+      "role": "runtime",
+      "bytes": 218592,
+      "triangles": 1104,
+      "sha256": "2adfbd7522204c9b568f55aa9258b7e9c53065f541770df44a80f93aecc76648"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_end.glb",
+      "role": "runtime",
+      "bytes": 153356,
+      "triangles": 312,
+      "sha256": "d3c08727edc7212927c5dba003afd45ffa5382cbbf1366b700529c84ef37700a"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_junction.glb",
+      "role": "runtime",
+      "bytes": 196848,
+      "triangles": 840,
+      "sha256": "3b5dade86ec1a211b1e7d985de480980fae897f6a8de46c14c34076908eef678"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_128.glb",
+      "role": "runtime",
+      "bytes": 191820,
+      "triangles": 840,
+      "sha256": "895c505c97866bcd290e6656db1033dbbe9bf6c699c29330aa3b0adf194e629c"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_129.glb",
+      "role": "runtime",
+      "bytes": 213564,
+      "triangles": 1104,
+      "sha256": "32b907153e74e22d3b69a4f306d5a9759ef4b3d07b1c36f8f94f336d97781d65"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_132.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "a210c04019770d3936c189709372bd220630eb6b1c177bc0b8d8656736463507"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_136.glb",
+      "role": "runtime",
+      "bytes": 252008,
+      "triangles": 1632,
+      "sha256": "f10b3976a8dc86669e37a5dfb3ad039819b4a9a4e206e6a58138c34ebee527ad"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_144.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "dc9700344d43b147f60903e270b53dff9ae4c05a7533bf4d67a606743a629ca5"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_18.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "c59c20f1f81385b6f244bda3634553b5b4fd5788de8159a5549f3bae5e8f8f56"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_2.glb",
+      "role": "runtime",
+      "bytes": 191816,
+      "triangles": 840,
+      "sha256": "45cbe3b2988231668adf3eb6840fda9d488971ca635fcb40133ef237f5187c15"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_32.glb",
+      "role": "runtime",
+      "bytes": 191820,
+      "triangles": 840,
+      "sha256": "39dccb4fc3a59ba225df831e9beee0741334e2cdfc9b8e59e1339a6e20af7017"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_33.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "03d00cad9d3415b0f4a6123e66f9ac1e4a561d2fa792ad2a9ffec1eab3491cb1"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_34.glb",
+      "role": "runtime",
+      "bytes": 252008,
+      "triangles": 1632,
+      "sha256": "57e6885c56439d74ef7b0cd946c7d95ec9dd4d7ef89f3e3c83bf3c54ae76a0ec"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_36.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "ec71b1c6115456455f5a864ebfb070635e474375d68abcdaf1b66e8bd84cf2e8"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_66.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "12c13a6208ba8e215660ac049eef7ca08f3b33a3e87b58f68b688a8a4704a0ad"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_72.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "d927a8ec746a8fd9ef117a799dd57f62c1b986b3ba45af7e5e81d54cdb8f19dd"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_8.glb",
+      "role": "runtime",
+      "bytes": 191820,
+      "triangles": 840,
+      "sha256": "7f071d95d09b6b0142c8a81ae3f9c043e4aa8c79f52d8bbf88815824b60d7a30"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_mask_9.glb",
+      "role": "runtime",
+      "bytes": 213560,
+      "triangles": 1104,
+      "sha256": "fa78d4c49e6ed63ac3908d919b07fa3c580f9ea22385126b26c38c50056c6be2"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_post.glb",
+      "role": "runtime",
+      "bytes": 88680,
+      "triangles": 48,
+      "sha256": "7753b8415518fee2f0173a451ad65800883c70e3abc3aaf074bb1f5e5163299c"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wall_straight.glb",
+      "role": "runtime",
+      "bytes": 175100,
+      "triangles": 576,
+      "sha256": "1c97b343f71330138cb800aa112b92acfe39ae06c13eb0479921b38ce1c5ed90"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/watchtower.glb",
+      "role": "runtime",
+      "bytes": 581420,
+      "triangles": 7888,
+      "sha256": "582cc3676e8cc3c8908864768ff5d250be45c6fad8ec005c5b61b2301036b76d"
+    },
+    {
+      "path": "assets/buildings/defence_wall/levels01-06/modular/wire_post.glb",
+      "role": "runtime",
+      "bytes": 5180,
+      "triangles": 44,
+      "sha256": "1ee644fbf06bac268965613f2725caa99b9a04b62c7650265402f84ecc124390"
+    },
+    {
+      "path": "assets/buildings/disassemble/tier01/disassemble.glb",
+      "role": "runtime",
+      "bytes": 6577820,
+      "triangles": 100920,
+      "sha256": "81457a016cc3b7e71fd416211c8ab394fb064510cbab8edd742719fc06b16498"
+    },
+    {
+      "path": "assets/buildings/engineering/levels01-06/engineering.glb",
+      "role": "runtime",
+      "bytes": 5874932,
+      "triangles": 69608,
+      "sha256": "841a1b4540a96fdcdc8623731ba0df72b6c1cb6eef6a2c98c833db573a400492"
+    },
+    {
+      "path": "assets/buildings/hq/levels01-06/source/refinement/structure.glb",
+      "role": "rebuild-input",
+      "bytes": 4653236,
+      "triangles": 81466,
+      "sha256": "cfeb3232f0e3fb9f7cb082c657e4755ac8cbeba688a517317c059b734ac13858"
+    },
+    {
+      "path": "assets/buildings/hq/levels01-06/timber_headquarters.glb",
+      "role": "runtime",
+      "bytes": 11639488,
+      "triangles": 152898,
+      "sha256": "050bf3ba636c31f154d70f70be11f6ed7b0ca5176389fe01d195dee1f3f4ddbc"
+    },
+    {
+      "path": "assets/buildings/officer_barracks/levels01-06/officer_barracks.glb",
+      "role": "runtime",
+      "bytes": 7833412,
+      "triangles": 80388,
+      "sha256": "ebe52a44a1d6850eb5f49a76dffe59eb4e831e7ff48381e1f6d771f577939085"
+    },
+    {
+      "path": "assets/buildings/parts_workshop/tier01/parts_workshop.glb",
+      "role": "runtime",
+      "bytes": 5971524,
+      "triangles": 88183,
+      "sha256": "d75c0ccfc7d71bd9283fab28e2e913055cac24e86b62e6f217128d56af23305e"
+    },
+    {
+      "path": "assets/buildings/research_center/levels01-06/research_center.glb",
+      "role": "runtime",
+      "bytes": 5787696,
+      "triangles": 75244,
+      "sha256": "283e9de691ab4342c0dd1d12321a61e892dc1fc6d638afa1c8ea9d2289b74c31"
+    },
+    {
+      "path": "assets/buildings/reserves_barracks/tier01/reserves_barracks.glb",
+      "role": "runtime",
+      "bytes": 5212672,
+      "triangles": 75536,
+      "sha256": "8f79ba95cc1907b6aa3d3375e89d5ac82fb42dff05341aab51e04b07bae59085"
+    },
+    {
+      "path": "assets/buildings/steelworks/levels01-06/steelworks.glb",
+      "role": "runtime",
+      "bytes": 5271736,
+      "triangles": 61352,
+      "sha256": "034d27985c9edf05fffe4b71486b0e1333abfa2939c199ee317aa0f894ffd89f"
+    },
+    {
+      "path": "assets/buildings/treasury/levels01-06/treasury.glb",
+      "role": "runtime",
+      "bytes": 4968952,
+      "triangles": 54912,
+      "sha256": "41fd8433b4c1a4db52e1ca67492f31bb9e4d51863504ac23c45a7f0d5904e941"
+    },
+    {
+      "path": "assets/units/m12_gmc/source/original.glb",
+      "role": "rebuild-input",
+      "bytes": 4591388,
+      "triangles": 20620,
+      "sha256": "89d7d361d31348e465cfb272f3499b2162e7581dbb8b07014b20aa7aca963fed"
+    },
+    {
+      "path": "assets/units/m12_gmc/tier01/howitzer.glb",
+      "role": "runtime",
+      "bytes": 1024820,
+      "triangles": 20620,
+      "sha256": "4ba2917d0781b05500659a8c7f73c2067ef25b5e64405b5687a748d549e7f2cf"
+    },
+    {
+      "path": "assets/units/m12_gmc/tier01/howitzer_enemy.glb",
+      "role": "runtime",
+      "bytes": 958108,
+      "triangles": 20620,
+      "sha256": "a0e135292e12af2322d69ea267c4a8fc9d1f1a4182c0cacbed8f5bd7b8478746"
+    },
+    {
+      "path": "assets/units/m18_hellcat/source/original.glb",
+      "role": "rebuild-input",
+      "bytes": 5255528,
+      "triangles": 32386,
+      "sha256": "990b5cbba6fc9035e5d08f719b72d2ff5f02fdde6424716cb01a4eabc3343a9a"
+    },
+    {
+      "path": "assets/units/m18_hellcat/tier01/m18_hellcat.glb",
+      "role": "runtime",
+      "bytes": 1251988,
+      "triangles": 32386,
+      "sha256": "e77b8de880d78f0acd82d04107fd5e40178a32e77619cc3bd499f75c4f4aeaa2"
+    },
+    {
+      "path": "assets/units/m18_hellcat/tier01/m18_hellcat_enemy.glb",
+      "role": "runtime",
+      "bytes": 1232472,
+      "triangles": 32386,
+      "sha256": "b680f8da2635b6460ccd161e96901bf160a1cba994049d3016dbcc911798fdfc"
+    },
+    {
+      "path": "assets/units/m24_chaffee/source/original.glb",
+      "role": "rebuild-input",
+      "bytes": 5620008,
+      "triangles": 38439,
+      "sha256": "ee8bcc03a6a156fed53330aff4013a4631c8c4d336e8112b4877e668cfcf559c"
+    },
+    {
+      "path": "assets/units/m24_chaffee/tier01/m24_chaffee_hull.glb",
+      "role": "runtime",
+      "bytes": 1334900,
+      "triangles": 34743,
+      "sha256": "abe190680b669fcdb11080724609b02a8643a3ea59586a85c90c3edda4054eac"
+    },
+    {
+      "path": "assets/units/m24_chaffee/tier01/m24_chaffee_hull_enemy.glb",
+      "role": "runtime",
+      "bytes": 1318328,
+      "triangles": 34743,
+      "sha256": "62adeac59ef63b5f9188b12bb14c6b85e15f08933482f8d554d4f974be99e0aa"
+    },
+    {
+      "path": "assets/units/m24_chaffee/tier01/m24_chaffee_turret.glb",
+      "role": "runtime",
+      "bytes": 491636,
+      "triangles": 4232,
+      "sha256": "a11e46610ada6a707fe64d83b2fb79c0c375871f89f976bf92f70191c671206c"
+    },
+    {
+      "path": "assets/units/m24_chaffee/tier01/m24_chaffee_turret_enemy.glb",
+      "role": "runtime",
+      "bytes": 475064,
+      "triangles": 4232,
+      "sha256": "46f6cf73f73e131f2899c6aac67f6d807fdd72890b4355665d59560c1fe7c409"
+    },
+    {
+      "path": "assets/units/m26_pershing/source/original.glb",
+      "role": "rebuild-input",
+      "bytes": 5756428,
+      "triangles": 41141,
+      "sha256": "6b5f3ad52a2bed5967486417f5f7d2932e5465a6560c0cafdd78e6ff1a10f2ea"
+    },
+    {
+      "path": "assets/units/m26_pershing/tier01/m26_pershing.glb",
+      "role": "rebuild-input",
+      "bytes": 5756472,
+      "triangles": 41141,
+      "sha256": "f846a8ad1438477ca48c4b10b6a84a955fc67d5f9023dd7d4aae184d7884baca"
+    },
+    {
+      "path": "assets/units/m26_pershing/tier01/m26_pershing_hull.glb",
+      "role": "runtime",
+      "bytes": 1440384,
+      "triangles": 37364,
+      "sha256": "bfbc2de1bfda2902433a932165925df51f8d66461d564a199b312b09bb6f8bab"
+    },
+    {
+      "path": "assets/units/m26_pershing/tier01/m26_pershing_hull_enemy.glb",
+      "role": "runtime",
+      "bytes": 1423256,
+      "triangles": 37364,
+      "sha256": "85c34fd04e414f66d2b0fb28c9ac731cccbb05164ec9b8d57ee530ed696e2a44"
+    },
+    {
+      "path": "assets/units/m26_pershing/tier01/m26_pershing_turret.glb",
+      "role": "runtime",
+      "bytes": 519972,
+      "triangles": 5055,
+      "sha256": "2021519d53d70d332023c1d20fa51098ea912e412399abfe2832ac20e2bfa568"
+    },
+    {
+      "path": "assets/units/m26_pershing/tier01/m26_pershing_turret_enemy.glb",
+      "role": "runtime",
+      "bytes": 502840,
+      "triangles": 5055,
+      "sha256": "378fe39d5ce2f447ce487c50febe899b37ce6bc7e56416f77a906defff26f47b"
+    },
+    {
+      "path": "assets/units/m4_sherman/source/reassembled.glb",
+      "role": "rebuild-input",
+      "bytes": 5394980,
+      "triangles": 43464,
+      "sha256": "f490e8c7904a3e034ac4a370905493f644a1add0f233824fbe417305aa6a3004"
+    },
+    {
+      "path": "assets/units/m4_sherman/tier01/m4_sherman_hull.glb",
+      "role": "runtime",
+      "bytes": 1371876,
+      "triangles": 38033,
+      "sha256": "c0222664f5635ec322778d8145b3e4a20fd64627b5a6d969ea9628305ff24909"
+    },
+    {
+      "path": "assets/units/m4_sherman/tier01/m4_sherman_hull_enemy.glb",
+      "role": "runtime",
+      "bytes": 1356320,
+      "triangles": 38033,
+      "sha256": "5e6358ed00d6d7099b038138b830126224968a0e29f6d35325c1157714204ca5"
+    },
+    {
+      "path": "assets/units/m4_sherman/tier01/m4_sherman_turret.glb",
+      "role": "runtime",
+      "bytes": 501788,
+      "triangles": 6203,
+      "sha256": "4218e8ee9f6c3aa6423b355bddd80fe674959d37c27d5d53275724d137ec7b73"
+    },
+    {
+      "path": "assets/units/m4_sherman/tier01/m4_sherman_turret_enemy.glb",
+      "role": "runtime",
+      "bytes": 486236,
+      "triangles": 6203,
+      "sha256": "50e2f350c43db4351415231a7e77d8647c28a4ec702efa2836b09074b59b32cd"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/maus_hull.glb",
+      "role": "runtime",
+      "bytes": 4320864,
+      "triangles": 11220,
+      "sha256": "39250236e78e8771498e8eae6c3b954afca6c2c2cfb15987f96cb1fbbbc5b635"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/maus_turret.glb",
+      "role": "runtime",
+      "bytes": 3981344,
+      "triangles": 2582,
+      "sha256": "ef2a0db4b84a504482e82f5a72c39479ba381f08231c6f98afc708830b1f83cc"
+    },
+    {
+      "path": "assets/units/super_heavy/tier01/source/original.glb",
+      "role": "rebuild-input",
+      "bytes": 4168488,
+      "triangles": 13212,
+      "sha256": "9a3f77a6d8b019cc28322b809afd1f40fb76acdd2a1148c9781ece5455777257"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/leg_l.glb",
+      "role": "runtime",
+      "bytes": 454552,
+      "triangles": 2248,
+      "sha256": "82609ad237bab6f944ff297d24468f7dbd18fb6aaa73ff1b0b14db78f061edda"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/leg_l_enemy.glb",
+      "role": "runtime",
+      "bytes": 438228,
+      "triangles": 2248,
+      "sha256": "5f058424b4eadc14231acf66b4f97c9c7578212a2ccbe68ad35bdb00a804dadc"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/leg_r.glb",
+      "role": "runtime",
+      "bytes": 452492,
+      "triangles": 2228,
+      "sha256": "0fc6eedea94ce927b6752a999d1ae255138baee8589ca8cf061f3f203af2d866"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/leg_r_enemy.glb",
+      "role": "runtime",
+      "bytes": 436168,
+      "triangles": 2228,
+      "sha256": "69ff001a19cc5c3e17955e9a29e281850ac99b70011f571d6d3d0142be1b7b3c"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/soldier.glb",
+      "role": "runtime",
+      "bytes": 1003252,
+      "triangles": 22983,
+      "sha256": "6fda05491eabd3420efe9e75d8e3e0bbda9374258760efbe9748e98f0d362602"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/torso.glb",
+      "role": "runtime",
+      "bytes": 887128,
+      "triangles": 18507,
+      "sha256": "f039fe0b5bc96c9c8938e4d36c3d9eee33c310eba01cb46b2237898c23449a55"
+    },
+    {
+      "path": "assets/units/us_infantry/tier01/torso_enemy.glb",
+      "role": "runtime",
+      "bytes": 870804,
+      "triangles": 18507,
+      "sha256": "eaa1449b7c551ce6fd81ac66e8aea2390c0af4b8f14d20116d37b3e2bf681645"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "building": "crude_oil",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    2,
+    2
+  ],
+  "front": "+X",
+  "rotationYDeg": 0,
+  "file": "crude_oil.glb",
+  "bytes": 4436704,
+  "triangles": 39860,
+  "sha256": "0d566d451bc829481f2a21d3a473de279535bd623fe9e157f32377b837bf71eb",
+  "authoring": "Blender",
+  "source": "source/crude_oil.blend",
+  "preview": "crude_oil_preview.png",
+  "turntable": "crude_oil_turntable.webm",
+  "mediaRole": "actual current model",
+  "terrainSlab": false,
+  "mechanicalPose": "static"
+}

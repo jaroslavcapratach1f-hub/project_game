@@ -1,0 +1,54 @@
+{
+  "building": "officer_barracks",
+  "displayName": "Officers Barracks",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    3,
+    3
+  ],
+  "rotationYDeg": 90,
+  "front": "+Z",
+  "screenFacing": "lower-right",
+  "file": "officer_barracks.glb",
+  "bytes": 7833412,
+  "triangles": 80388,
+  "sha256": "ebe52a44a1d6850eb5f49a76dffe59eb4e831e7ff48381e1f6d771f577939085",
+  "source": "source/officer_barracks.blend",
+  "authoring": "Blender",
+  "preview": "officer_barracks_preview.png",
+  "turntable": "officer_barracks_turntable.webm",
+  "mediaRole": "actual current model",
+  "terrainSlab": false,
+  "design": "Octagonal timber officer recruitment hall, brass rank/laurel crest, dossier wing, briefing veranda and textured entrance sentries",
+  "gameplay": "Existing officer acquisition/assignment/training unchanged; all guards and props static",
+  "rebuildInputs": [
+    "assets/buildings/hq/levels01-06/timber_headquarters.glb",
+    "assets/units/us_infantry/tier01/soldier.glb"
+  ],
+  "supersededFiles": [
+    {
+      "path": "assets/buildings/officer_barracks/tier01/officer_barracks.glb",
+      "sha256": "20cf26f06d1b51e65b8582dee50d1ddb330fa245351ccf49d408185c5108ede5",
+      "bytes": 5634248
+    },
+    {
+      "path": "assets/buildings/officer_barracks/tier01/README.md",
+      "sha256": "a8e01ab72dd77820c13e302de6be0c02c4ea97ad1eba16c7a03506e1d9a321ac",
+      "bytes": 2155
+    },
+    {
+      "path": "assets/buildings/officer_barracks/tier01/officer_barracks_turntable.mp4",
+      "sha256": "5fb6efa091315dcbefd5f81ec9797d262b74a07e51454531bd0c49b6d47cdd32",
+      "bytes": 619408
+    },
+    {
+      "path": "assets/buildings/officer_barracks/tier01/officer_barracks_concept.jpeg",
+      "sha256": "48e582e9d6c8a75ab74a360bea5443ca41b9d9e3bc920c6d76157b7906e41fb4",
+      "bytes": 171571
+    }
+  ],
+  "sentryPose": "Continuous standing rest pose; both soles planted; original UV/topology retained before static decimation"
+}

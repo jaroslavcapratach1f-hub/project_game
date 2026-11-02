@@ -1,0 +1,52 @@
+{
+  "building": "research_center",
+  "displayName": "Academy / Research Center",
+  "visualLevels": {
+    "min": 1,
+    "max": 6
+  },
+  "footprintCells": [
+    3,
+    3
+  ],
+  "rotationYDeg": 90,
+  "front": "+Z",
+  "screenFacing": "lower-right",
+  "file": "research_center.glb",
+  "bytes": 5787696,
+  "triangles": 75244,
+  "sha256": "283e9de691ab4342c0dd1d12321a61e892dc1fc6d638afa1c8ea9d2289b74c31",
+  "source": "source/research_center.blend",
+  "authoring": "Blender",
+  "preview": "research_center_preview.png",
+  "turntable": "research_center_turntable.webm",
+  "mediaRole": "actual current model",
+  "terrainSlab": false,
+  "design": "Timber military R&D laboratory: stepped roofs, industrial windows, lattice aerial and open tank-engine test annex",
+  "gameplay": "Existing research functions unchanged; all equipment static",
+  "rebuildInputs": [
+    "assets/buildings/hq/levels01-06/timber_headquarters.glb"
+  ],
+  "supersededFiles": [
+    {
+      "path": "assets/buildings/research_center/tier01/research_center.glb",
+      "sha256": "dcd622286944e77060679a0113045c09da67cd6447f61d9d94cfc9f933151657",
+      "bytes": 6347000
+    },
+    {
+      "path": "assets/buildings/research_center/tier01/research_center_turntable.mp4",
+      "sha256": "150f4d55c4ac656fdf184dbe081c0db98da54e8601784a255251bd6b3a5902e9",
+      "bytes": 777890
+    },
+    {
+      "path": "assets/buildings/research_center/tier01/README.md",
+      "sha256": "7107bcea9b74af1d5e95721da9fc2701b4fe3f99f5cb0a23befece335faffa8b",
+      "bytes": 2904
+    },
+    {
+      "path": "assets/buildings/research_center/tier01/research_center_concept.jpeg",
+      "sha256": "8cfb80465d446f60bd0b338f86fa75b8c1c55801e5b069bc8e6fd93d2a97ad37",
+      "bytes": 188016
+    }
+  ]
+}
